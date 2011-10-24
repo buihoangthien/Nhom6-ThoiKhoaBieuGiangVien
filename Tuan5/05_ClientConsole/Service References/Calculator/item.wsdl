@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="/Imports">
+      <xsd:import schemaLocation="http://localhost:8732/Design_Time_Addresses/TracingAndLogging/Calculator/?xsd=xsd0" />
+      <xsd:import schemaLocation="http://localhost:8732/Design_Time_Addresses/TracingAndLogging/Calculator/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ICalculator_Add_InputMessage">
+    <wsdl:part name="parameters" element="Add" />
+  </wsdl:message>
+  <wsdl:message name="ICalculator_Add_OutputMessage">
+    <wsdl:part name="parameters" element="AddResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICalculator_Subtract_InputMessage">
+    <wsdl:part name="parameters" element="Subtract" />
+  </wsdl:message>
+  <wsdl:message name="ICalculator_Subtract_OutputMessage">
+    <wsdl:part name="parameters" element="SubtractResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICalculator_Multiply_InputMessage">
+    <wsdl:part name="parameters" element="Multiply" />
+  </wsdl:message>
+  <wsdl:message name="ICalculator_Multiply_OutputMessage">
+    <wsdl:part name="parameters" element="MultiplyResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICalculator_Divide_InputMessage">
+    <wsdl:part name="parameters" element="Divide" />
+  </wsdl:message>
+  <wsdl:message name="ICalculator_Divide_OutputMessage">
+    <wsdl:part name="parameters" element="DivideResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ICalculator">
+    <wsdl:operation name="Add">
+      <wsdl:input wsaw:Action="urn:ICalculator/Add" message="ICalculator_Add_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ICalculator/AddResponse" message="ICalculator_Add_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Subtract">
+      <wsdl:input wsaw:Action="urn:ICalculator/Subtract" message="ICalculator_Subtract_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ICalculator/SubtractResponse" message="ICalculator_Subtract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Multiply">
+      <wsdl:input wsaw:Action="urn:ICalculator/Multiply" message="ICalculator_Multiply_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ICalculator/MultiplyResponse" message="ICalculator_Multiply_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Divide">
+      <wsdl:input wsaw:Action="urn:ICalculator/Divide" message="ICalculator_Divide_InputMessage" />
+      <wsdl:output wsaw:Action="urn:ICalculator/DivideResponse" message="ICalculator_Divide_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

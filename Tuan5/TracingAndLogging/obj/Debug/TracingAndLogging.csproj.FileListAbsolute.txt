@@ -1,0 +1,12 @@
+C:\RAC\TracingAndLogging\obj\Debug\ResolveAssemblyReference.cache
+C:\RAC\TracingAndLogging\bin\Debug\TracingAndLogging.dll.config
+C:\RAC\TracingAndLogging\bin\Debug\TracingAndLogging.dll
+C:\RAC\TracingAndLogging\bin\Debug\TracingAndLogging.pdb
+C:\RAC\TracingAndLogging\obj\Debug\TracingAndLogging.dll
+C:\RAC\TracingAndLogging\obj\Debug\TracingAndLogging.pdb
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\TracingAndLogging\bin\Debug\TracingAndLogging.dll.config
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\TracingAndLogging\bin\Debug\TracingAndLogging.dll
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\TracingAndLogging\bin\Debug\TracingAndLogging.pdb
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\TracingAndLogging\obj\Debug\ResolveAssemblyReference.cache
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\TracingAndLogging\obj\Debug\TracingAndLogging.dll
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\TracingAndLogging\obj\Debug\TracingAndLogging.pdb

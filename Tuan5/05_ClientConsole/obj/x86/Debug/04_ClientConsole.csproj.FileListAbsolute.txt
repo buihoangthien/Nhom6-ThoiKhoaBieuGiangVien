@@ -1,0 +1,12 @@
+C:\RAC\04_ClientConsole\bin\Debug\04_ClientConsole.exe.config
+C:\RAC\04_ClientConsole\bin\Debug\04_ClientConsole.exe
+C:\RAC\04_ClientConsole\bin\Debug\04_ClientConsole.pdb
+C:\RAC\04_ClientConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\RAC\04_ClientConsole\obj\x86\Debug\04_ClientConsole.exe
+C:\RAC\04_ClientConsole\obj\x86\Debug\04_ClientConsole.pdb
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\05_ClientConsole\bin\Debug\04_ClientConsole.exe.config
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\05_ClientConsole\obj\x86\Debug\04_ClientConsole.exe
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\05_ClientConsole\obj\x86\Debug\04_ClientConsole.pdb
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\05_ClientConsole\bin\Debug\04_ClientConsole.exe
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\05_ClientConsole\bin\Debug\04_ClientConsole.pdb
+E:\DATA\Data Vo\HoaSen\TEACHING\CongNgheDichVuWeb\Bai_tap_thuc_hanh\TH_Ngon\10.1\Tuan5\05_ClientConsole\obj\x86\Debug\ResolveAssemblyReference.cache
